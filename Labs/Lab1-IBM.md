@@ -1,12 +1,13 @@
 # Lab IBM 1 - Terraform workflow
 
-##### Managing an IBM cloud resource group with terraform
+##### Managing an IBM cloud resource group with tTerraform
 
 ---
 
 ## Objectives
 
-In this lab, you will create, modify and destroy an IBM Cloud resource group
+In this lab, you will explore the Terraform workflow by creating, modifying  and destroying an IBM Cloud resource group
+
 ## Setup 
 
 For this lab, you will want to use either the IBM Cloud console or the IBM Cloud CLI to check on the status of your deployment and to modify it outside Terraform.

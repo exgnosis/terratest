@@ -6,7 +6,7 @@
 
 ## Objectives
 
-In this lab, you will create, modify and destroy an AWS EC2 instance using Terraform
+In this lab, you will create, explore the Terraform workflow by creating, modifying and destroying an AWS EC2 instance/
 
 ### Setup 
 
