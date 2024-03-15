@@ -10,7 +10,6 @@ resource "ibm_is_instance" "my_vm" {
 
   primary_network_interface {
     subnet = ibm_is_subnet.my_subnet.id
-   # security_groups = [ibm_is_security_group.my.id]
   }
 
   keys = [
